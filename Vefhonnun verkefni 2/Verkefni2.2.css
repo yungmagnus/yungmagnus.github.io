@@ -1,0 +1,122 @@
+h1 {width:1700px;
+   	height: 50px;
+   	border-style: dashed;
+    border: dashed: lime;
+    border-color: green;
+    font-size: 30px;
+    margin-left: 35px;}
+
+h2 {width:1700px;
+   	height: 50px;
+   	border-style: dashed;
+    border: dashed: lime;
+    border-color: green;
+    font-size: 30px;
+    margin-left: 35px;}
+
+h3 {width:1700px;
+   	height: 50px;
+   	border-style: dashed;
+    border: dashed: lime;
+    border-color: green;
+    font-size: 30px;
+    margin-left: 35px;}
+
+h4 {width:1700px;
+   	height: 50px;
+   	border-style: dashed;
+    border: dashed: lime;
+    border-color: green;
+    font-size: 30px;
+    margin-left: 35px;}
+
+.random1 {width:75px;
+	float: left;
+	margin:1em;
+	padding:1em;
+	height:50px;
+	border-style: dashed;
+	border:dashed blue;
+	font-size: 30px;
+	font;color: red;
+	margin:40px;}
+.random2 {width:75px;
+	float: left;
+	margin:1em;
+	height:50px;
+	padding:1em;
+	border-style: dashed;
+	border:dashed blue;
+	font-size: 30px;
+	font;color: red;
+	margin:40px;}
+.random3 {width:75px;
+	height:50px;
+	margin:1em;
+	float: left;
+	padding:1em;
+	border-style: dashed;
+	border:dashed blue;
+	font-size: 30px;
+	font;color: red;
+	margin:40px;}
+
+.random4 {width:75px;
+	height:50px;
+	float: left;
+	margin:1em;
+	padding:1em;	
+	border-style: dashed;
+	border:dashed blue;
+	font-size: 30px;
+	font;color: red;
+	margin:40px;}
+
+
+.random5 {width:75px;
+	height:50px;
+	margin:1em;
+	float: left;
+	padding:1em;	
+	border-style: dashed;
+	border:dashed blue;
+	font-size: 30px;
+	font;color: red;
+	margin:40px;
+	margin-left:;
+	 }
+
+.GGX {display: inline;}
+
+.jizz {display: inline-block;}
+
+.jas1 {padding:1em;
+ 	   margin:1em;
+ 	   border-style: dashed;
+ 	   border: 3px dashed red;
+ 	   float: left;}
+.jas2 {padding:1em;
+ 	   margin:1em;
+ 	   border-style: dashed;
+ 	   border: 3px dashed red;
+ 	   float: left;}
+ 	  .jas3 {padding:1em;
+ 	   margin:1em;
+ 	   border-style: dashed;
+ 	   border: 3px dashed red;
+ 	   float: left;}
+ 	   .jas4{padding:1em;
+ 	   margin:1em;
+ 	   border-style: dashed;
+ 	   border: 3px dashed red;
+ 	   float: left;}
+ 	  .jas5{padding:1em;
+ 	   margin:1em;
+ 	   border-style: dashed;
+ 	   border: 3px dashed red;
+ 	   float: left;}
+ 	   .jas6 {padding:1em;
+ 	   margin:1em;
+ 	   border-style: dashed;
+ 	   border: 3px dashed red;
+ 	   float: left;}
