@@ -1,0 +1,92 @@
+html{font-family: Mountains Of Christmas}
+body {
+  margin: 40px;
+  background-color: green;
+}
+
+.sidebar {
+  grid-area: sidebar;
+}
+
+.sidebar2 {
+  grid-area: sidebar2;
+
+}
+
+.content {
+  grid-area: content;
+}
+
+.nav {
+  grid-area: nav;
+  color: brown;
+
+
+
+}
+a:hover{
+
+  font-weight:bold;
+  text-decoration:underline;
+
+}
+nav ul {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+
+}
+nav li a {
+
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+
+}
+
+.footer {
+  grid-area: footer;
+}
+
+.wrapper {
+  background-color: brown;
+  color: ;
+}
+
+.wrapper { display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 120px auto 120px;
+  grid-template-areas:
+  "nav  nav  nav"
+  "sidebar content sidebar2"
+  "footer  footer  footer";
+  max-width: 100%;
+  background-color: green;
+}
+
+
+.box {
+  background-color: brown;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 150%;
+
+}
+A:link { text-decoration: none }
+.nav,
+.footer {
+  background-color: brown;
+}
+
+.sidebar2 {
+  background-color: brown;
+  
+}
+
+.nav nav { 
+ text-decoration: none
+ color:brown;
+}
+}
