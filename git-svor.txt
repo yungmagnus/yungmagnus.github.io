@@ -11,3 +11,7 @@ Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
  git log - sýnir commit log
  git checkout - skiptir um greinar eða restorar tree files
  git branch -búa til eða eyða greinar
+Hvað er útgáfustýring (Version Control)? - það breytir t.d Linux code yfir í windows code.
+ Hverjir eru helstu kostir við að nota GIT? - Git gerir það auðveldara að vinna með oðrum
+ Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - eins oft og maður vil 
+ Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? - Working Directory er þaða directory sem þu er að vinna í en Staging Area er staður til að geyma data
