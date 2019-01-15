@@ -3,3 +3,7 @@ Hvað gera eftirfarandi Linux skipanir?
  ls - það þyðir list. Það skoðar hvað directory/folders sem þu ert að vinna með
  pwd - password
  mkdir - make directory
+Hvað gera eftirfarandi Git skipanir?
+ git clone - það downloadar git link sem copyaðir
+ git status - sýnir working tree status
+ git diff - sýnir munn á commits
