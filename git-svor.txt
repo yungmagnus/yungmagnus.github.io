@@ -7,3 +7,7 @@ Hvað gera eftirfarandi Git skipanir?
  git clone - það downloadar git link sem copyaðir
  git status - sýnir working tree status
  git diff - sýnir munn á commits
+Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+ git log - sýnir commit log
+ git checkout - skiptir um greinar eða restorar tree files
+ git branch -búa til eða eyða greinar
