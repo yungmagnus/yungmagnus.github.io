@@ -1,0 +1,184 @@
+/* Desktop */
+.erik {display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-areas: 
+        "grid1 grid1 grid1 grid1"
+        "grid2 grid3 grid4 grid5"
+        "grid7 grid6 grid6 grid8"
+        "grid9 grid9 grid9 grid9";
+
+        }
+.cheese {grid-area: grid1;
+        text-align:center;
+        font-family: Bitter;
+        background-color: green;
+
+        }
+.cheese2 {grid-area: grid2;
+        text-align:center;
+        font-family: Bitter;
+        background: blue;
+
+        }
+.cheese3 {grid-area: grid3;
+        text-align:center;
+        font-family: Bitter;
+        background-color:black;
+        color: yellow
+
+        }
+.cheese4 {grid-area: grid4;
+        text-align:center;
+        font-family: Bitter;
+        background-color:yellow;
+        }
+.cheese5 {grid-area: grid5;
+        text-align:center;
+        font-family: Bitter;
+        background-color:orange;
+        }
+.cheese6 {grid-area: grid6;
+        text-align:center;
+        font-family: Bitter;
+        background-color:purple;
+        }
+.cheese7 {grid-area: grid7;
+        text-align:center;
+        font-family: Bitter;
+        background-color:red;
+        }
+.cheese8 {grid-area: grid8;
+        text-align:center;
+        font-family: Bitter;
+        background-color:grey;
+
+        }
+.cheese9 {grid-area: grid9;
+        text-align:center;
+        font-family: Bitter;
+        background-color:brown;
+        }
+/* Tablet */
+.king {
+      float: center;
+      width: 300px;
+      height: 200px;}
+.yungdude{display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-areas: 
+        "dol1 dol2 dol3 dol4";
+}
+.delorean{grid-area: dol1;
+        float: center;
+      width: 200px;
+      height: 200px;
+
+        }
+        .delorean2{grid-area: dol2;
+        float: center;
+      width: 200px;
+      height: 200px;
+        }
+        .delorean3{grid-area: dol3;
+        float: center;
+      width: 200px;
+      height: 200px;
+        }
+        .delorean4{grid-area: dol4;
+        float: center;
+      width: 200px;
+      height: 200px;
+        }
+@media (max-width: 48em){
+.erik {display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 
+        "grid1 grid1"
+        "grid2 grid3"
+        "grid7 grid6"
+        "grid8 grid6"
+        "grid4 grid5"
+        "grid9 grid9";
+        }
+.king {
+      float: center;
+      width: 350px;
+      height: 250px; }
+.yungdude{display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 
+        "dol1 dol2" 
+        "dol3 dol4";
+}
+.delorean{grid-area: dol1;
+        float: center;
+      width: 120px;
+      height: 120px;
+
+        }
+        .delorean2{grid-area: dol2;
+        float: center;
+      width: 120px;
+      height: 120px;
+        }
+        .delorean3{grid-area: dol3;
+        float: center;
+      width: 120px;
+      height: 120px;
+        }
+        .delorean4{grid-area: dol4;
+        float: center;
+      width: 120px;
+      height: 120px;
+        }
+} /** Mobile **/
+@media (max-width: 37.5em){
+.erik {display: grid;
+        grid-template-columns: 1fr ;
+        grid-template-areas: 
+        "grid1"
+        "grid6"
+        "grid7"
+        "grid8"
+        "grid9"
+        "grid5"
+        "grid4"
+        "grid3"
+        "grid2";
+        }
+.king {
+      float: center;
+      width: 100px;
+      height: 100px; }
+      .yungdude{display: grid;
+        grid-template-columns: 1fr ;
+        grid-template-areas: 
+        "dol1"
+        "dol2" 
+        "dol3" 
+        "dol4";
+}
+.delorean{grid-area: dol1;
+        float: center;
+      width: 70px;
+      height: 70px;
+
+        }
+        .delorean2{grid-area: dol2;
+        float: center;
+      width: 70px;
+      height: 70px;
+        }
+        .delorean3{grid-area: dol3;
+        float: center;
+      width:70px;
+      height: 70px;
+        }
+        .delorean4{grid-area: dol4;
+        float: center;
+      width: 70px;
+      height: 70px;
+        }
+    }
+
+

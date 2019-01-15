@@ -1,0 +1,116 @@
+body {
+  margin: 35px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3,33.333%);
+  border: black solid 1px;
+  background-color: ;
+  color: black;
+
+
+  
+}
+
+.box {
+  
+  background-color: white;
+  color: black;
+  width:;
+  
+  padding: 0px;
+  font-size: 1em;
+  border:black solid 1px;
+  height: 500px;
+}
+
+.box.a {font-family:"Times New Roman";
+  }
+.box.b {font-family:"Arial"; 
+}
+.box.c {font-family: "Courier"}
+strong {font-size:2em }
+header {text-align: center;
+        font-size: 3em;
+       background-color:cyan;
+       margin-bottom: 40px;}
+
+.wrapper2 {
+  display: grid;
+  grid-template-columns: repeat(2,50%);
+  grid-template-rows: repeat (2,50%);
+  border: black solid 1px;
+  background-color: ;
+  color: black;
+
+
+
+  
+}
+
+.box2 {
+  
+  background-color: white;
+  color: black;
+  width:;
+  
+  padding: 0px;
+  font-size: 1em;
+  border:black solid 1px;
+  height: 500px;
+}
+
+.box2.a2 {font-family:"Georgia";
+  }
+.box2.b2 {font-family:"Trebuchet"; 
+}
+.box2.c2 {font-family: "Arial black"}
+.box2.d2 {font-family:"Palatino" }
+strong {font-size:2em }
+header {text-align: center;
+        font-size: 3em;
+       background-color:cyan;
+       margin-bottom: 40px;}
+
+.wrapper3 {
+  display: grid;
+  grid-template-columns: repeat(2,50%);
+  grid-template-rows: repeat (2,50%);
+  border: black solid 1px;
+  background-color: ;
+  color: black;}
+ .box3 {
+  
+  background-color: white;
+  color: black;
+  width:;
+  
+  padding: 0px;
+  font-size: 1em;
+  border:black solid 1px;
+  height: 500px;
+}
+
+.box3.a3 {font-family:"Georgia";
+ font-size: 0.7em;
+ line-height: 1.6em;
+padding-left: 10px;
+  }
+.box3.b3 {font-family:"Trebuchet"; 
+}
+
+ .posterbox {
+  
+  background-color: cyan;
+  color: black;
+  width:;
+  text-align:center;
+  text-align: vertical;
+  margin-top: 30px;
+  padding: 0px;
+  font-size: 1.2em;
+  border:black solid 1px;
+  height: 200px;
+}
+.posterbox pre {color:red;}

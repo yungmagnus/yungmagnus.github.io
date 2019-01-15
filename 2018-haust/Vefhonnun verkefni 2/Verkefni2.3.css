@@ -1,0 +1,55 @@
+.king {
+	   display: block;
+		border: 1px solid red;
+		width: 750px;
+		
+         padding: 6px;}
+.virgin {display: inline-block;
+		margin: bottom 1em;}
+.pizza {height:350px;
+		width: 200px;
+		border: 2px solid black;
+		border-right: 1px solid;
+		float: left;
+		font-size: 12px;
+		margin-left: 25px;
+		}
+.pizza2{height: 350px;
+		width: 200px;
+		border: 2px solid black;
+		border-right: 1px solid;
+		border-left: 1px solid;
+		float: left;
+		font-size: 12px;
+		}
+
+
+.pizza3{height:350px;
+		width: 200px;
+		border: 2px solid black;
+		border-left: 1px solid;
+		float: left;
+		font-size: 12px;
+		margin-right:25px;
+		}
+.queen {display: inline-block;
+		margin-top: -1px;
+		height: 3px:;}
+.pizza4 {
+	border: 2px solid black;
+	width: 301px;
+	height: 230px;
+	font-size: 12px;
+	float: left;
+	margin-left: 25px; 
+	border-right: 1px }
+.pizza5{
+	border: 2px solid black;
+	width: 301px;
+	height: 230px;
+	font-size: 12px;
+	float: left;
+	margin-right: 25px;
+}
+
+
