@@ -7,9 +7,12 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
     <title>Blog</title>
+    <head>
+<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
+</head>
   </head>
-  <body>
-    <header class=masterheader></header>
+  <body class="master">
+    <div class="topnav">
     <nav>
   
     <a href="/" >
@@ -17,45 +20,76 @@
     </a>
   
     <a href="/about.html" >
-      About
+      Up And Coming Games
     </a>
   
     <a href="/blog.html" style="color: red;">
-      Blog
+      Top 3 Games Of The Year 2018
     </a>
   
     <a href="/staff.html" >
-      Stuff
+      Game Creators
     </a>
   
 </nav>
-    <h1>Latest Posts</h1>
+  </div>
+    <h1>Top 3 Games Of The Year </h1>
 
 <ul>
   
     <li>
-      <h2><a href="/2018/08/22/kiwifruit.html">Kiwifruit</a></h2>
-      <p><p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
-berry of several species of woody vines in the genus Actinidia.</p>
+      <h2><a href="/2018/08/22/SpiderMan.html">Spiderman</a></h2>
+      <p><p>Marvel’s Spider-Man is a 2018 action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.</p>
 
 </p>
     </li>
   
     <li>
-      <h2><a href="/2018/08/21/apples.html">Apples</a></h2>
-      <p><p>An apple is a sweet, edible fruit produced by an apple tree.</p>
+      <h2><a href="/2018/08/21/Red-Dead.html">Red dead</a></h2>
+      <p><p>Red Dead Redemption 2 is a Western action-adventure game developed and published by Rockstar Games. It was released on October 26, 2018, for the PlayStation 4 and Xbox One consoles.</p>
 
 </p>
     </li>
   
     <li>
-      <h2><a href="/2018/08/20/bananas.html">Bananas</a></h2>
-      <p><p>A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.</p>
+      <h2><a href="/2018/08/20/SmashBros.html">Smashbros</a></h2>
+      <p><p>Super Smash Bros. Ultimate is a 2018 crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo for the Nintendo Switch.</p>
 
 </p>
     </li>
   
 </ul>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="https://www.youtube.com/gaming/">YouTube</a>
+        <a href="https://en.wikipedia.org/wiki/Video_game">Wikipedia</a>
+        <a href="https://store.steampowered.com/">Buy Games On Steam</a>
+        <a href="https://www.g2a.com/en/?adid=dsab-cpc-EUother-en-non-c-328227934253&id=37&gclid=Cj0KCQiAtbnjBRDBARIsAO3zDl_I2TCn-fqmgZYYM2juPrVm8hVzeRPY6bzYLLfTjYbFGPrRcAeBVokaAoYoEALw_wcB&gclsrc=aw.ds">Sell Games On G2A</a>
+      </div>
+      
+      <!-- Use any element to open the sidenav -->
+      <span class="cooldude" onclick="openNav()">CLICK ME</span>
+
+      <script>
+      function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+      </script>
+    <div class="topnav">
+    <a class="active" href="/">Home</a>
+    <a href="about.html">About</a>
+    <a href="blog.html">Blog</a>
+    <a href="staff.html">Stuff</a>
+  </div>
+    <form>
+  <button formaction="http://twitter.com/magnusronne" id="myBtn">Checkout my twitter!</button>
+</form>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
   </body>
 </html>

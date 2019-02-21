@@ -7,10 +7,14 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
     <title>{{ page.title }}</title>
+    {% include favicon.html%}
   </head>
-  <body>
-    <header class=masterheader></header>
-    {% include navigation.html %}
+  <body class="master">
+    {% include header.html %}
     {{ content }}
+    {% include sidebar.html %}
+    {% include footer.html %}
+    {% include button.html %}
+    {% include font.html %}
   </body>
 </html>

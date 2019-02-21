@@ -1,0 +1,1 @@
+# yungmagnus.github.io

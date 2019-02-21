@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: About
+- name: Up And Coming Games
   link: /about.html
-- name: Blog
+- name: Top 3 Games Of The Year 2018
   link: /blog.html
-- name: Stuff
+- name: Game Creators
   link: /staff.html
