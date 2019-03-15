@@ -4,6 +4,8 @@
     <head>
     <meta charset="utf-8">
     <title>Smashbros</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
     <title>Smashbros</title>
@@ -12,7 +14,29 @@
 </head>
   </head>
   <body class="master">
-    <div class="topnav">
+    <header>
+        <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="https://www.youtube.com/gaming/">YouTube <i class="fab fa-youtube"></i></a>
+  <a href="https://en.wikipedia.org/wiki/Video_game">Wikipedia <i class="fab fa-wikipedia-w"></i></a>
+  <a href="https://store.steampowered.com/">Buy Games On Steam <i class="fab fa-steam"></i></a>
+  <a href="https://www.g2a.com/en/?adid=dsab-cpc-EUother-en-non-c-328227934253&id=37&gclid=Cj0KCQiAtbnjBRDBARIsAO3zDl_I2TCn-fqmgZYYM2juPrVm8hVzeRPY6bzYLLfTjYbFGPrRcAeBVokaAoYoEALw_wcB&gclsrc=aw.ds">Sell Games On G2A <i class="fab fa-teamspeak"></i></a>
+</div>
+
+<!-- Use any element to open the sidenav -->
+<span class="cooldude" onclick="openNav()"><i class="fas fa-bars"></i></span>
+
+<script>
+function openNav() {
+document.getElementById("mySidenav").style.width = "250px";
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+        <div class="topnav">
     <nav>
   
     <a href="/" >
@@ -34,9 +58,26 @@
 </nav>
   </div>
   <header class="song" >
-    <img src="assets/images/kiwi.svg" alt="Wizard Hat">
+    <div id="main">
+      <svg viewBox="0 0 5000 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+        <g id="PacMan">
+          <path id="Body" d="M242.893,166.616c-17.161,48.556 -63.492,83.384 -117.893,83.384c-68.989,0 -125,-56.011 -125,-125c0,-68.989 56.011,-125 125,-125c52.892,0 98.155,32.922 116.398,79.374c-32.851,12.86 -116.233,45.807 -115.9,45.607c0.332,-0.199 85.618,30.449 117.395,41.635Z"
+          style="fill:#fe0;" />
+          <path id="Mouth2" d="M241.391,79.349c6.463,13.523 9.038,28.877 8.612,45.644l-124.938,0.011l116.326,-45.655Z" style="fill:#fe0;" />
+          <path id="Mouth1" d="M242.666,166.576c5.484,-13.989 8.291,-27.865 7.37,-41.583l-125.037,-0.038l117.667,41.621Z" style="fill:#fe0;" />
+        </g>
+      </svg>
+        <p> 
+       <br Þessi vefsiða er gerð fyrir vefhonnun :)
+         :)
+        :) 
+        </p>
+      </div>
+      
   </header>
-    <h1>Smashbros</h1>
+    </header>
+    <main>
+        <h1>Smashbros</h1>
 
 <p>
   20 Aug 2018
@@ -48,46 +89,14 @@
 
 <p>It is the fifth installment in the Super Smash Bros. series, succeeding Super Smash Bros. for Nintendo 3DS and Wii U. The game follows the series’ traditional style of gameplay: controlling one of various characters, players must use differing attacks to weaken their opponents and knock them out of an arena. It features a wide variety of game modes, including a campaign for a single-player and multiplayer versus modes.</p>
 
-    <div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="https://www.youtube.com/gaming/">YouTube <i class="fab fa-youtube"></i></a>
-  <a href="https://en.wikipedia.org/wiki/Video_game">Wikipedia <i class="fab fa-wikipedia-w"></i></a>
-  <a href="https://store.steampowered.com/">Buy Games On Steam <i class="fab fa-steam"></i></a>
-  <a href="https://www.g2a.com/en/?adid=dsab-cpc-EUother-en-non-c-328227934253&id=37&gclid=Cj0KCQiAtbnjBRDBARIsAO3zDl_I2TCn-fqmgZYYM2juPrVm8hVzeRPY6bzYLLfTjYbFGPrRcAeBVokaAoYoEALw_wcB&gclsrc=aw.ds">Sell Games On G2A <i class="fab fa-teamspeak"></i></a>
-</div>
-
-<!-- Use any element to open the sidenav -->
-<span class="cooldude" onclick="openNav()"><i class="fas fa-bars"></i></span>
-
-<script>
-function openNav() {
-document.getElementById("mySidenav").style.width = "250px";
-}
-
-/* Set the width of the side navigation to 0 */
-function closeNav() {
-document.getElementById("mySidenav").style.width = "0";
-}
-</script>
-    <div class="topnav">
-    <a class="active" href="/">Home</a>
-    <a href="about.html">Up And Coming Games</a>
-    <a href="blog.html">Top 3 Games Of The Year 2018</a>
-    <a href="staff.html">Game Creators</a>
-  </div>
-    <form>
-  <button formaction="http://twitter.com/magnusronne" id="myBtn">Checkout my twitter! <i class="fab fa-twitter"></i></button>
-</form>
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-<head>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-</head>
-
-    
+    </main>
+    <aside>
+        <a href="https://www.google.com/search?q=pacman+game&oq=pacman+game&aqs=chrome.0.69i59j69i60l3j0l2.1485j0j7&sourceid=chrome&ie=UTF-8"
 <div class="container">
     <svg class="ghost" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
          width="127.433px" height="132.743px" viewBox="0 0 127.433 132.743" enable-background="new 0 0 127.433 132.743"
          xml:space="preserve">
+         <a xlink:href="www.medium.com/p/f254e0f6b71a" target="__blank"></a>
     <path fill="#FFF6F4" d="M116.223,125.064c1.032-1.183,1.323-2.73,1.391-3.747V54.76c0,0-4.625-34.875-36.125-44.375
         s-66,6.625-72.125,44l-0.781,63.219c0.062,4.197,1.105,6.177,1.808,7.006c1.94,1.811,5.408,3.465,10.099-0.6
         c7.5-6.5,8.375-10,12.75-6.875s5.875,9.75,13.625,9.25s12.75-9,13.75-9.625s4.375-1.875,7,1.25s5.375,8.25,12.875,7.875
@@ -128,7 +137,19 @@ document.getElementById("mySidenav").style.width = "0";
          width="122.436px" height="39.744px" viewBox="0 0 122.436 39.744" enable-background="new 0 0 122.436 39.744"
          xml:space="preserve">
     <ellipse fill="#EF3D23" cx="61.128" cy="19.872" rx="49.25" ry="8.916"/>
-        </svg></p>
+        </svg></p> </a>
     </div>
+    </aside>
+    <footer>
+        <div class="topnav">
+    <a class="active" href="/">Home</a>
+    <a href="about.html">Up And Coming Games</a>
+    <a href="blog.html">Top 3 Games Of The Year 2018</a>
+    <a href="staff.html">Game Creators</a>
+</div>
+        <form>
+  <button formaction="http://twitter.com/magnusronne" id="myBtn">Checkout my twitter! <i class="fab fa-twitter"></i></button>
+</form>
+    </footer> 
   </body>
 </html>
