@@ -1,0 +1,39 @@
+<head>
+    <link rel="stylesheet" href="/assets/css/form.css">
+</head>
+<form class="form" action="/" style="border:1px solid #ccc">
+    <div class="container">
+      <h1>Sign Up Down Below!</h1>
+      <p>Fill this for to get gaming update daily!.</p>
+      <hr>
+  
+      <label for="email"><p>Email</p></label>
+      <input type="email" placeholder="Enter Email" name="email" required>
+  
+      <p>Password:</p>
+      <input name="password" required="required" placeholder="Enter Password" type="password" id="password" />
+      <p>Confirm Password:</p>
+      <input placeholder="Repeat Password" name="password_confirm" required="required" type="password" id="password_confirm" oninput="check(this)" />
+      <script language='javascript' type='text/javascript'>
+          function check(input) {
+              if (input.value != document.getElementById('password').value) {
+                  input.setCustomValidity('Password Must be Matching.');
+              } else {
+                  // input is valid -- reset the error message
+                  input.setCustomValidity('');
+              }
+          }
+      </script>
+      <br /><br />
+      <label>
+        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+      </label>
+  
+      <p>By creating an account you agree to our <a href="https://steamuserimages-a.akamaihd.net/ugc/947336408518896858/A60A8305C54B4262AB3515566BA58F239E18805A/" style="color:dodgerblue">Terms & Privacy</a>.</p>
+  
+      <div class="clearfix">
+        <button type="button" class="cancelbtn">Cancel</button>
+        <button type="submit" class="signupbtn">Sign Up</button>
+      </div>
+    </div>
+  </form>
