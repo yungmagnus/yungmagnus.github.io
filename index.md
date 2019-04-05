@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Computer Games And More
+title: yungmagnus website
 ---
 ## A video game is an electronic game that involves interaction with a user interface to generate     visual feedback on a two- or three-dimensional video display device such as a TV screen, virtual  reality headset or computer monitor. Since the 1980s, video games have become an increasingly      important part of the entertainment industry, and whether they are also a form of art is a matter  of dispute.
 
