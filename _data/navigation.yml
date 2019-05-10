@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: Up And Coming Games
+- name: Top 3 Songs
   link: /about.html
-- name: Top 3 Games Of The Year 2018
+- name: Up And Coming Tours
   link: /blog.html
-- name: Game Creators
+- name: Managers
   link: /staff.html

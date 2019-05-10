@@ -1,10 +1,12 @@
 ---
 layout: default
-title: yungmagnus website
+title: Queen
 ---
-## A video game is an electronic game that involves interaction with a user interface to generate     visual feedback on a two- or three-dimensional video display device such as a TV screen, virtual  reality headset or computer monitor. Since the 1980s, video games have become an increasingly      important part of the entertainment industry, and whether they are also a form of art is a matter  of dispute.
+#                     Queen
+## Queen are a British rock band formed in London in 1970. Their classic line-up was Freddie Mercury (lead vocals and piano), Brian May (lead guitar and vocals), Roger Taylor (drums and vocals) and John Deacon (bass guitar). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock.
 
-## The electronic systems used to play video games are called platforms. Video games are developed  and released for one or several platforms and may not be available on others. Specialized        platforms such #as arcade games, which present the game in a large, typically coin operated        chassis, were common in #the 1980s in video arcades, but declined in popularity as other more     affordable platforms became available. The input device used for games, the game controller, varies across platforms. Common controllers include gamepads, joysticks, mouse devices, keyboards, the touchscreens of mobile devices, or even a person's body, using a Kinect sensor. Players view the game on a display device such as a television or computer monitor or sometimes on virtual reality head-mounted display goggles. There are often game sound effects, music and voice actor lines which come from loudspeakers or headphones. Some games in the 2000s include haptic, vibration-creating effects, force feedback peripherals and virtual reality headsets.
+## Before forming Queen, May and Taylor had played together in the band Smile. Mercury was a fan of Smile and encouraged them to experiment with more elaborate stage and recording techniques. He joined in 1970 and suggested the name "Queen". Deacon was recruited before the band recorded their eponymous debut album in 1973. Queen first charted in the UK with their second album, Queen II, in 1974. Sheer Heart Attack later that year and A Night at the Opera in 1975 brought them international success. The latter featured "Bohemian Rhapsody", which stayed at number one in the UK for nine weeks and helped popularise the music video format.
+
 
 
 

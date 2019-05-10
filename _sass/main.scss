@@ -4,7 +4,7 @@ html{
 }
 
 .current {
-  color: green;
+  color: red;
 }
 
 header {
@@ -54,8 +54,8 @@ body {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: red;
+  color: red;
 }
 // Background
 .master {
@@ -89,7 +89,7 @@ body {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color:green; /* Set a background color */
+  background-color:red; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
@@ -98,7 +98,7 @@ body {
 }
 
 #myBtn:hover {
-  background-color: darkolivegreen; /* Add a dark-grey background on hover */
+  background-color: darkred; /* Add a dark-grey background on hover */
 }
 
 .sidenav {
@@ -130,7 +130,7 @@ body {
 }
 
 .sidenav a.active{
-  background-color: #4CAF50;
+  background-color: lightcoral;
   color: white
 }
 
@@ -158,7 +158,7 @@ body {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color:grey; /* Set a background color */
+  background-color:red; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
@@ -369,7 +369,7 @@ hr {
 
 /* Set a style for all buttons */
 button {
-  background-color: #4CAF50;
+  background-color: red;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;

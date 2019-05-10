@@ -2,7 +2,7 @@ html {
   font-family: 'Roboto', sans-serif; }
 
 .current {
-  color: green; }
+  color: red; }
 
 header {
   grid-area: header; }
@@ -42,8 +42,8 @@ body {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white; }
+  background-color: red;
+  color: red; }
 
 .master {
   background: url(../images/pacman.png);
@@ -99,7 +99,7 @@ body {
   /* Remove borders */
   outline: none;
   /* Remove outline */
-  background-color: green;
+  background-color: red;
   /* Set a background color */
   color: white;
   /* Text color */
@@ -113,7 +113,7 @@ body {
   /* Increase font size */ }
 
 #myBtn:hover {
-  background-color: darkolivegreen;
+  background-color: darkred;
   /* Add a dark-grey background on hover */ }
 
 .sidenav {
@@ -151,7 +151,7 @@ body {
   color: red; }
 
 .sidenav a.active {
-  background-color: #4CAF50;
+  background-color: lightcoral;
   color: white; }
 
 /* Position and style the close button (top right corner) */
@@ -182,7 +182,7 @@ body {
   /* Remove borders */
   outline: none;
   /* Remove outline */
-  background-color: grey;
+  background-color: red;
   /* Set a background color */
   color: white;
   /* Text color */
@@ -349,7 +349,7 @@ hr {
 
 /* Set a style for all buttons */
 button {
-  background-color: #4CAF50;
+  background-color: red;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;

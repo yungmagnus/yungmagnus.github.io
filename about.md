@@ -2,12 +2,10 @@
 layout: default
 title: About
 ---
-# Games Coming In 2019
-### Mortal Kombat 11
-* Fighting games have always had rough launches on PC, but it’s great that the platform isn’t getting passed up entirely anymore, and Mortal Kombat 11 is no exception. The absurdly gory fighting game will make its return in the first half of the year.
-### Super Mario Maker 2
-* Super Mario Maker 2 is a side-scrolling platform game and game creation system developed and published by Nintendo for the Wii U game console, which released worldwide in September 2019. Players are able to create and play their own custom courses, based on Super Mario Bros., Super Mario Bros. 3, Super Mario World and New Super Mario Bros. U, share them online, and download and play courses designed by other players
-### The Legend of Zelda: Link's Awakening 
-* The Legend of Zelda: Link's Awakening is an upcoming action-adventure video game developed and published by Nintendo for the Nintendo Switch. It is a remake of the eponymous 1993 game originally developed for the Game Boy. The game retains the original title's top-down perspective and gameplay elements, while featuring a "retro-modern" art style unique to the series, with toy-like character designs and tilt-shift visuals. It is planned to be released in 2019
-### Apex Legends
-* Apex Legends is a free-to-play battle royale game developed by Respawn Entertainment and published by Electronic Arts. Set in the same universe as Titanfall, the game was released for Microsoft Windows, PlayStation 4, and Xbox One on February 4, 2019
+# Top 3 Songs
+### Bohemian Rhapsody
+* "Bohemian Rhapsody" is a song by the British rock band Queen. It was written by Freddie Mercury for the band's 1975 album A Night at the Opera. It is a six-minute suite,[1] consisting of several sections without a chorus: an intro, a ballad segment, an operatic passage, a hard rock part and a reflective coda.[2] The song is a more accessible take on the 1970s progressive rock genre.[3]
+### Don't Stop Me Now
+* "Don't Stop Me Now" is a song by the British rock band Queen, featured on their 1978 album Jazz that was released as a single in 1979. Written by lead singer Freddie Mercury, it was recorded in August 1978 at Super Bear Studios in Berre-les-Alpes (Alpes-Maritimes), France, and is the twelfth track on the album.[3] Musically, the song builds on Mercury's piano playing, with John Deacon and Roger Taylor providing a bass guitar and drums backing track. The song also provides an example of Queen's trademark style of multitrack harmony vocals for the chorus lines.[4]
+### Another One Bites The Dust
+* "Another One Bites the Dust" is a song by the British rock band Queen. Written by bass guitarist John Deacon, the song featured on the group's eighth studio album The Game (1980). The song was a worldwide hit, charting number one on the US Billboard Hot 100 for three weeks, from 4 October to 18 October (their second number-one single in the country). The song spent fifteen weeks in the Billboard top ten (the longest running top ten song of 1980), including thirteen weeks in the top five, and 31 weeks total on the chart (more than any other song in 1980).
